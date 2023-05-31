@@ -2,7 +2,9 @@
 Simple script to merge several PDFs together 
 
 ## Usage
-```./pdfmerge [OPTION]```
+```
+./pdfmerge [OPTION]
+```
 Merge PDFs together
 ```
 -h, --help      Display this help
